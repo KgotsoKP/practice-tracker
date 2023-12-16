@@ -1,6 +1,5 @@
 <template>
   <div>
-    <p>Hi there this is the YAAS Practice Tracker</p>
   </div>
 </template>
 
