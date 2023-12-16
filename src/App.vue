@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="min-h-full">
     <router-view />
     <Navigation></Navigation>
   </div>

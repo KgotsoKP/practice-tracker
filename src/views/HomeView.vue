@@ -5,7 +5,7 @@
 
 <script>
 export default {
-  name: "login",
+  name: "home",
   setup() {
     // Create data / vars
 
