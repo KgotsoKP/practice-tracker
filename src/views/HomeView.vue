@@ -5,7 +5,7 @@
 
 <script>
 export default {
-  name: "home",
+  name: "home-view",
   setup() {
     // Create data / vars
 
