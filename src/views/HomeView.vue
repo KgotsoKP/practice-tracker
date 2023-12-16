@@ -1,12 +1,11 @@
 <template>
   <div>
-    <p>Hi there this is the YAAS Practice Tracker</p>
   </div>
 </template>
 
 <script>
 export default {
-  name: "login",
+  name: "home-view",
   setup() {
     // Create data / vars
 
